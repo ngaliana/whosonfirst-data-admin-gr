@@ -9,7 +9,6 @@
     "geom:bbox":"23.7359619141,37.9853396281,23.7414550781,37.9918336451",
     "geom:latitude":37.988922,
     "geom:longitude":23.738937,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.988223,
     "lbl:longitude":23.73895,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85906381,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Lofos Strefi",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

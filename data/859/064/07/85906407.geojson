@@ -9,7 +9,6 @@
     "geom:bbox":"23.6963592615,37.9528608543,23.7167358398,37.9701846881",
     "geom:latitude":37.962269,
     "geom:longitude":23.707528,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.962422,
     "lbl:longitude":23.71056,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85906407,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Lofos Sikelias",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

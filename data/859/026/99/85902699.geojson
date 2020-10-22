@@ -9,7 +9,6 @@
     "geom:bbox":"22.949959,40.633267,22.949959,40.633267",
     "geom:latitude":40.633267,
     "geom:longitude":22.949959,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:bbox":"22.944959,40.628267,22.954959,40.638267",
     "lbl:latitude":40.633267,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85902699,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360158,
+    "wof:lastmodified":1603260419,
     "wof:name":"Sik\u00e9ai",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

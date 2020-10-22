@@ -9,7 +9,6 @@
     "geom:bbox":"23.6700439453,37.9629824956,23.7139892578,37.9889167375",
     "geom:latitude":37.976557,
     "geom:longitude":23.692788,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.984371,
     "lbl:longitude":23.699436,
@@ -105,10 +104,7 @@
         }
     ],
     "wof:id":85906371,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Votanikos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

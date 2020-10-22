@@ -9,7 +9,6 @@
     "geom:bbox":"23.729095459,37.9745149897,23.7400817871,37.9820924092",
     "geom:latitude":37.978309,
     "geom:longitude":23.734787,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.976181,
     "lbl:longitude":23.734101,
@@ -119,10 +118,7 @@
         }
     ],
     "wof:id":85907719,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Syntagma",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"19.910248,39.637914,19.910248,39.637914",
     "geom:latitude":39.637914,
     "geom:longitude":19.910248,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:bbox":"19.905248,39.632914,19.915248,39.642914",
     "lbl:latitude":39.637914,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85902637,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360158,
+    "wof:lastmodified":1603260419,
     "wof:name":"\u00c1yios Spir\u00eddhon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

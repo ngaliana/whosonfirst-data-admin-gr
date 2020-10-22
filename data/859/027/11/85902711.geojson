@@ -9,7 +9,6 @@
     "geom:bbox":"23.682922672,37.9333667765,23.7120967585,37.9631943752",
     "geom:latitude":37.947399,
     "geom:longitude":23.698279,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.942921,
     "lbl:longitude":23.696063,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85902711,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Kallith\u00e9aathinas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"23.7233239762,37.9753292216,23.729095459,37.9820924092",
     "geom:latitude":37.978629,
     "geom:longitude":23.725964,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.975841,
     "lbl:longitude":23.725899,
@@ -137,10 +136,7 @@
         }
     ],
     "wof:id":85907721,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Monastiraki",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

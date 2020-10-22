@@ -9,7 +9,6 @@
     "geom:bbox":"23.7233935382,37.9676663622,23.7321203896,37.972349872",
     "geom:latitude":37.970169,
     "geom:longitude":23.728039,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.967667,
     "lbl:longitude":23.728107,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85906393,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Makrygianni",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

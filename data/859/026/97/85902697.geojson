@@ -9,7 +9,6 @@
     "geom:bbox":"23.7683288891,38.0069839687,23.8006294188,38.0221314735",
     "geom:latitude":38.016205,
     "geom:longitude":23.784102,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":38.013271,
     "lbl:longitude":23.777233,
@@ -128,10 +127,7 @@
         }
     ],
     "wof:id":85902697,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360158,
+    "wof:lastmodified":1603260419,
     "wof:name":"Psychiko",
     "wof:parent_id":1175612729,
     "wof:placetype":"neighbourhood",

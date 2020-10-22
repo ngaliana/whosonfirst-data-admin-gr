@@ -9,7 +9,6 @@
     "geom:bbox":"23.6847631836,38.0286220749,23.7317898266,38.0732298826",
     "geom:latitude":38.049654,
     "geom:longitude":23.709264,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":38.04427,
     "lbl:longitude":23.718662,
@@ -220,10 +219,7 @@
         }
     ],
     "wof:id":85902681,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360158,
+    "wof:lastmodified":1603260419,
     "wof:name":"N\u00e9a Li\u00f3sia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"23.7299120446,37.9601110102,23.7428283692,37.9707213108",
     "geom:latitude":37.96562,
     "geom:longitude":23.737272,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.964991,
     "lbl:longitude":23.741267,
@@ -77,10 +76,7 @@
         }
     ],
     "wof:id":85907715,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Mets",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

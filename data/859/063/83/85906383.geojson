@@ -9,7 +9,6 @@
     "geom:bbox":"23.7410375659,37.9601110102,23.7590478796,37.9773862138",
     "geom:latitude":37.969839,
     "geom:longitude":23.748769,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.970093,
     "lbl:longitude":23.746581,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85906383,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Pangrati",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

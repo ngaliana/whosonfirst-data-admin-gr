@@ -9,7 +9,6 @@
     "geom:bbox":"23.7084960937,37.9268675377,23.7486566594,37.9431144619",
     "geom:latitude":37.935232,
     "geom:longitude":23.729585,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.9366,
     "lbl:longitude":23.725361,
@@ -164,10 +163,7 @@
         }
     ],
     "wof:id":85902709,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Agios Dimitrios",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"23.7208557129,37.9788450405,23.7336327875,37.9918336451",
     "geom:latitude":37.985084,
     "geom:longitude":23.727091,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.984279,
     "lbl:longitude":23.727483,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85907735,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Omonoia",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

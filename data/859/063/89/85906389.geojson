@@ -9,7 +9,6 @@
     "geom:bbox":"23.7249755859,37.9557799594,23.7359619141,37.9658541287",
     "geom:latitude":37.960666,
     "geom:longitude":23.730617,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.962085,
     "lbl:longitude":23.729441,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85906389,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Kinosargous",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

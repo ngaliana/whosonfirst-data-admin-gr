@@ -9,7 +9,6 @@
     "geom:bbox":"23.733215332,37.9918336446,23.7469662353,38.0048199664",
     "geom:latitude":37.99827,
     "geom:longitude":23.741094,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.99806,
     "lbl:longitude":23.756695,
@@ -105,10 +104,7 @@
         }
     ],
     "wof:id":85906373,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Polygono",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

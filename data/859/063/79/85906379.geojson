@@ -9,7 +9,6 @@
     "geom:bbox":"23.7455749512,37.9788449766,23.7689208984,37.993246039",
     "geom:latitude":37.985779,
     "geom:longitude":23.759941,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.983009,
     "lbl:longitude":23.753576,
@@ -184,10 +183,7 @@
         }
     ],
     "wof:id":85906379,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Lykavittos",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

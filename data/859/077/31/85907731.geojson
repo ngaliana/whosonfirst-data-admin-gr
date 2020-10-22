@@ -9,7 +9,6 @@
     "geom:bbox":"23.7201690674,37.9687489929,23.7266272132,37.9762711968",
     "geom:latitude":37.972796,
     "geom:longitude":23.723095,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.973171,
     "lbl:longitude":23.723711,
@@ -248,10 +247,7 @@
         }
     ],
     "wof:id":85907731,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Areopagos Hill",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

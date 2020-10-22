@@ -9,7 +9,6 @@
     "geom:bbox":"23.7430090325,37.8759380005,23.7871606446,37.9160337972",
     "geom:latitude":37.894879,
     "geom:longitude":23.769335,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.892356,
     "lbl:longitude":23.762179,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85902631,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360158,
+    "wof:lastmodified":1603260419,
     "wof:name":"Aryiro\u00fapolis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

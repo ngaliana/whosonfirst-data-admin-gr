@@ -9,7 +9,6 @@
     "geom:bbox":"23.808851,38.086253,23.808851,38.086253",
     "geom:latitude":38.086253,
     "geom:longitude":23.808851,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:bbox":"23.803851,38.081253,23.813851,38.091253",
     "lbl:latitude":38.086253,
@@ -114,10 +113,7 @@
         }
     ],
     "wof:id":85906415,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Nea Kifisia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

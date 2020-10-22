@@ -9,7 +9,6 @@
     "geom:bbox":"23.7592552027,38.0216020405,23.8475854493,38.0716002267",
     "geom:latitude":38.043546,
     "geom:longitude":23.804461,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":38.035723,
     "lbl:longitude":23.780396,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85902679,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360158,
+    "wof:lastmodified":1603260419,
     "wof:name":"N\u00e9a Alex\u00e1ndia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

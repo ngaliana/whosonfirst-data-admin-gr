@@ -9,7 +9,6 @@
     "geom:bbox":"23.7193432521,37.9701846877,23.7215423584,37.974514992",
     "geom:latitude":37.97211,
     "geom:longitude":23.720365,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.971428,
     "lbl:longitude":23.720264,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85907733,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Hill of the Pnyx",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

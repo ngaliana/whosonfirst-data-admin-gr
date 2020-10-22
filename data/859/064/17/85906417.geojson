@@ -9,7 +9,6 @@
     "geom:bbox":"23.7414550781,37.9316254824,23.7871606446,37.9509465863",
     "geom:latitude":37.941949,
     "geom:longitude":23.765719,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.942091,
     "lbl:longitude":23.76091,
@@ -159,10 +158,7 @@
         }
     ],
     "wof:id":85906417,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Ilioupolis",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

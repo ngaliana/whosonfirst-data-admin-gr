@@ -9,7 +9,6 @@
     "geom:bbox":"23.7524414063,37.9493577789,23.8146264649,37.9780194084",
     "geom:latitude":37.963656,
     "geom:longitude":23.791594,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.967081,
     "lbl:longitude":23.766485,
@@ -165,10 +164,7 @@
         }
     ],
     "wof:id":85902653,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360158,
+    "wof:lastmodified":1603260419,
     "wof:name":"Kaisarian\u00ed",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

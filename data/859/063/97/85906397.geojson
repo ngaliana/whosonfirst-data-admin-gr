@@ -9,7 +9,6 @@
     "geom:bbox":"23.7167358398,37.9593578028,23.7282789013,37.9672898661",
     "geom:latitude":37.963298,
     "geom:longitude":23.72317,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.964169,
     "lbl:longitude":23.722004,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85906397,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Koukaki",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"23.7249755857,37.989669036,23.7359619141,38.0017717509",
     "geom:latitude":37.995332,
     "geom:longitude":23.729674,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.993811,
     "lbl:longitude":23.730999,
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85906375,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Angelopoulou",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

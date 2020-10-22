@@ -9,7 +9,6 @@
     "geom:bbox":"23.7457314035,38.0257791724,23.7716674805,38.0567419011",
     "geom:latitude":38.042587,
     "geom:longitude":23.758146,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":38.043334,
     "lbl:longitude":23.755016,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85902691,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360158,
+    "wof:lastmodified":1603260419,
     "wof:name":"Podhar\u00e1dhes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

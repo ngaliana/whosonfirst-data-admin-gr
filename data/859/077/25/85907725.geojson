@@ -9,7 +9,6 @@
     "geom:bbox":"23.7079394485,37.9730793557,23.7208557129,37.9817161443",
     "geom:latitude":37.976986,
     "geom:longitude":23.714044,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.975988,
     "lbl:longitude":23.717342,
@@ -119,10 +118,7 @@
         }
     ],
     "wof:id":85907725,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Thiseio",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

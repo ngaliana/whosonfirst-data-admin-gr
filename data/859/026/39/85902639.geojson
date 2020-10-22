@@ -9,7 +9,6 @@
     "geom:bbox":"23.6188452149,37.9680192807,23.6920166016,38.0299677268",
     "geom:latitude":38.000513,
     "geom:longitude":23.661307,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.988701,
     "lbl:longitude":23.667038,
@@ -221,10 +220,7 @@
         }
     ],
     "wof:id":85902639,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360158,
+    "wof:lastmodified":1603260419,
     "wof:name":"Egaleo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

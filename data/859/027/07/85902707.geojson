@@ -9,7 +9,6 @@
     "geom:bbox":"23.7562255489,37.9133413954,23.7871606446,37.9355327427",
     "geom:latitude":37.924368,
     "geom:longitude":23.772395,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.925687,
     "lbl:longitude":23.767922,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85902707,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Ilioupoli Athinon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

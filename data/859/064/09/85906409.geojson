@@ -9,7 +9,6 @@
     "geom:bbox":"23.7057495117,37.9691254232,23.7196563848,37.974514992",
     "geom:latitude":37.97209,
     "geom:longitude":23.712528,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.971676,
     "lbl:longitude":23.716664,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85906409,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Lofos Nymfon",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

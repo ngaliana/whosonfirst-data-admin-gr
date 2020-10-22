@@ -9,7 +9,6 @@
     "geom:bbox":"23.7098148386,37.9831748243,23.7222290039,37.9918336531",
     "geom:latitude":37.987489,
     "geom:longitude":23.716019,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.995215,
     "lbl:longitude":23.71667,
@@ -103,10 +102,7 @@
         }
     ],
     "wof:id":85906369,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Kolonos",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

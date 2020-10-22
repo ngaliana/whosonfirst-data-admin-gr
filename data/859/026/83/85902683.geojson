@@ -9,7 +9,6 @@
     "geom:bbox":"23.7194824219,38.0207188969,23.7590698574,38.0732298826",
     "geom:latitude":38.048456,
     "geom:longitude":23.739627,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":38.031437,
     "lbl:longitude":23.735076,
@@ -112,10 +111,7 @@
         }
     ],
     "wof:id":85902683,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360158,
+    "wof:lastmodified":1603260419,
     "wof:name":"Pat\u00edsia",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

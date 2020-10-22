@@ -9,7 +9,6 @@
     "geom:bbox":"23.6811286346,37.9142934401,23.7387084961,37.939865409",
     "geom:latitude":37.926868,
     "geom:longitude":23.709612,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.930176,
     "lbl:longitude":23.699513,
@@ -172,10 +171,7 @@
         }
     ],
     "wof:id":85902677,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360158,
+    "wof:lastmodified":1603260419,
     "wof:name":"N. Smirni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

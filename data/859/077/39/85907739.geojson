@@ -9,7 +9,6 @@
     "geom:bbox":"23.7387084961,37.9806568761,23.7475272089,37.9875043631",
     "geom:latitude":37.983932,
     "geom:longitude":23.742644,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.985571,
     "lbl:longitude":23.743116,
@@ -108,10 +107,7 @@
         }
     ],
     "wof:id":85907739,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Neapoli",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

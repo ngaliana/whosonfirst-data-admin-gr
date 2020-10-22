@@ -9,7 +9,6 @@
     "geom:bbox":"23.7579345703,37.954773638,23.803518719,37.9853394746",
     "geom:latitude":37.973196,
     "geom:longitude":23.780466,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.974158,
     "lbl:longitude":23.77572,
@@ -208,10 +207,7 @@
         }
     ],
     "wof:id":85906385,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Panepistimioupolis",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

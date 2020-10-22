@@ -9,7 +9,6 @@
     "geom:bbox":"23.727722168,37.9810099663,23.7392651098,37.9918336531",
     "geom:latitude":37.986555,
     "geom:longitude":23.734061,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.986923,
     "lbl:longitude":23.733345,
@@ -139,10 +138,7 @@
         }
     ],
     "wof:id":85907737,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Exarcheia",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

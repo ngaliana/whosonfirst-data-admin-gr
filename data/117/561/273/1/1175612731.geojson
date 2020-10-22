@@ -921,6 +921,9 @@
         "wk:page":"Athens"
     },
     "wof:country":"GR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6905c175ee0e5ebfb4f5a78a1de62744",
     "wof:hierarchy":[
         {
@@ -931,10 +934,7 @@
         }
     ],
     "wof:id":1175612731,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1597098380,
+    "wof:lastmodified":1603260434,
     "wof:megacity":1,
     "wof:name":"Athens",
     "wof:parent_id":85684697,

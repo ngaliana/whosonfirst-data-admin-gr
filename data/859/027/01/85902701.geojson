@@ -9,7 +9,6 @@
     "geom:bbox":"23.732658253,37.8911114872,23.7621833117,37.9160341802",
     "geom:latitude":37.904215,
     "geom:longitude":23.748058,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.904387,
     "lbl:longitude":23.745326,
@@ -146,10 +145,7 @@
         }
     ],
     "wof:id":85902701,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Argyroupoli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

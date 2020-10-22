@@ -9,7 +9,6 @@
     "geom:bbox":"23.7139892578,37.9753768481,23.7249755859,37.9864220084",
     "geom:latitude":37.981214,
     "geom:longitude":23.719942,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.978798,
     "lbl:longitude":23.724155,
@@ -127,10 +126,7 @@
         }
     ],
     "wof:id":85907723,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Psyri",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

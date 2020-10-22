@@ -9,7 +9,6 @@
     "geom:bbox":"23.7311553955,37.9688372622,23.7414642769,37.9766800482",
     "geom:latitude":37.972328,
     "geom:longitude":23.736857,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.972389,
     "lbl:longitude":23.737058,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85907717,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Zappeio",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

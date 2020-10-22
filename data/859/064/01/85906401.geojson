@@ -9,7 +9,6 @@
     "geom:bbox":"23.7304500205,37.9485292733,23.7469482422,37.9618528024",
     "geom:latitude":37.954491,
     "geom:longitude":23.739398,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.954292,
     "lbl:longitude":23.737935,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85906401,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Katsipodi",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

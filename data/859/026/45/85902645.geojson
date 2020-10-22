@@ -9,7 +9,6 @@
     "geom:bbox":"23.7067358399,37.8767773109,23.7414550781,37.9184410214",
     "geom:latitude":37.899375,
     "geom:longitude":23.722887,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.90692,
     "lbl:longitude":23.722569,
@@ -142,10 +141,7 @@
         }
     ],
     "wof:id":85902645,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260419,
     "wof:name":"Faliro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"23.6976997626,38.011312101,23.73046875,38.0351124206",
     "geom:latitude":38.023624,
     "geom:longitude":23.714171,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":38.025249,
     "lbl:longitude":23.717622,
@@ -156,10 +155,7 @@
         }
     ],
     "wof:id":85906411,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Ayioi Anaryiroi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

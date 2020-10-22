@@ -9,7 +9,6 @@
     "geom:bbox":"23.7469482422,37.989669036,23.7871055859,38.0134535689",
     "geom:latitude":38.003035,
     "geom:longitude":23.76704,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.997401,
     "lbl:longitude":23.768852,
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85902695,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Psikhik\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

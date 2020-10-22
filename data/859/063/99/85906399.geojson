@@ -9,7 +9,6 @@
     "geom:bbox":"23.7084960937,37.9381163145,23.7315823362,37.9622294456",
     "geom:latitude":37.949851,
     "geom:longitude":23.720628,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.959217,
     "lbl:longitude":23.724296,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85906399,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Dourgouti",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

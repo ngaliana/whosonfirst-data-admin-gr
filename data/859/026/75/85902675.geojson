@@ -9,7 +9,6 @@
     "geom:bbox":"23.7689208984,37.9831745142,23.8475854493,38.0329489294",
     "geom:latitude":38.005216,
     "geom:longitude":23.812556,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.996462,
     "lbl:longitude":23.786389,
@@ -140,10 +139,7 @@
         }
     ],
     "wof:id":85902675,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260419,
     "wof:name":"N. Psihiko",
     "wof:parent_id":1175612729,
     "wof:placetype":"neighbourhood",

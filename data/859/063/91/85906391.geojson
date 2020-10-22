@@ -9,7 +9,6 @@
     "geom:bbox":"23.7236022949,37.9658541195,23.73046875,37.9694551482",
     "geom:latitude":37.967511,
     "geom:longitude":23.727067,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.968092,
     "lbl:longitude":23.727302,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85906391,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260418,
     "wof:name":"Veikou",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

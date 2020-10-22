@@ -9,7 +9,6 @@
     "geom:bbox":"23.748874,37.867088,23.748874,37.867088",
     "geom:latitude":37.867088,
     "geom:longitude":23.748874,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:bbox":"23.743874,37.862088,23.753874,37.872088",
     "lbl:latitude":37.867088,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85902703,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360157,
+    "wof:lastmodified":1603260418,
     "wof:name":"Dytiko Aerodromio (West Air)",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

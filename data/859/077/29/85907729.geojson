@@ -9,7 +9,6 @@
     "geom:bbox":"23.7076610549,37.9636887441,23.7236022949,37.9707259895",
     "geom:latitude":37.967535,
     "geom:longitude":23.716299,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.966718,
     "lbl:longitude":23.717176,
@@ -148,10 +147,7 @@
         }
     ],
     "wof:id":85907729,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Philopappos Hill",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

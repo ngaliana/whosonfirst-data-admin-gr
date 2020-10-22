@@ -9,7 +9,6 @@
     "geom:bbox":"23.7469482422,37.95719218,23.7551879883,37.9658541216",
     "geom:latitude":37.961501,
     "geom:longitude":23.751179,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.96161,
     "lbl:longitude":23.751993,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85906387,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260417,
     "wof:name":"Vyron",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",

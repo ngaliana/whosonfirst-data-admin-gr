@@ -9,7 +9,6 @@
     "geom:bbox":"23.7414550781,37.9853396183,23.7634277344,38.0019038756",
     "geom:latitude":37.993195,
     "geom:longitude":23.751296,
-    "gn:id":"",
     "iso:country":"GR",
     "lbl:latitude":37.991625,
     "lbl:longitude":23.749071,
@@ -108,10 +107,7 @@
         }
     ],
     "wof:id":85906365,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582360156,
+    "wof:lastmodified":1603260418,
     "wof:name":"Gizi",
     "wof:parent_id":1175612731,
     "wof:placetype":"neighbourhood",
